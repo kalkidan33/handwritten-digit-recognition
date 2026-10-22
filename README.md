@@ -55,4 +55,3 @@ python src/predict.py
 - Understand neural networks.
 - Learn basic image preprocessing.
 - Train and evaluate a machine learning model.
-- Practice using Git and GitHub.
